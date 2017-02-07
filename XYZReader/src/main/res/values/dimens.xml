@@ -28,7 +28,7 @@
 
     <!-- Elevations -->
     <dimen name="toolbar_elevation">8dp</dimen>
-    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
 
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_compat_margin">16dp</dimen>
@@ -46,6 +46,7 @@
     <dimen name="article_detail_anchor_height">@dimen/match_parent</dimen>
     <dimen name="article_detail_photo_max_width">500dp</dimen>
     <dimen name="article_detail_content_margin_bottom">0dp</dimen>
+    <dimen name="placeholder_article_aspect_ratio">12 dp</dimen>
 
     <item name="article_detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 

@@ -114,8 +114,8 @@
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
         android:stateListAnimator="@anim/fab_state_list_anim"
-        app:elevation="@dimen/fab_elevation"
-        app:pressedTranslationZ="12dp"
+        app:elevation="6dp"
+        app:pressedTranslationZ="6dp"
         app:rippleColor="@android:color/white" />
 
 </com.example.xyzreader.ui.widget.DrawInsetsFrameLayout>

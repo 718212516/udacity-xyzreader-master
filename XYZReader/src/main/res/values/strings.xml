@@ -17,5 +17,7 @@
 
     <!-- Details -->
     <string name="article_detail_byline">%1$s by <font color='#ffffff'>%2$s</font></string>
+    <string name="placeholder_article_title">12 dp</string>
+    <string name="placeholder_article_subtitle">12 dp</string>
 
 </resources>
